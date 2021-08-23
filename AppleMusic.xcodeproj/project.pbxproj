@@ -61,6 +61,7 @@
 		CF8DA92426D1BC740078E0FC /* DetailViewBackground.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF8DA92326D1BC740078E0FC /* DetailViewBackground.swift */; };
 		CF8DA92926D1F4A00078E0FC /* ViewMusicArtistButtons.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF8DA92826D1F4A00078E0FC /* ViewMusicArtistButtons.swift */; };
 		CF8DA92F26D200C20078E0FC /* ActionSheetButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF8DA92E26D200C20078E0FC /* ActionSheetButton.swift */; };
+		CF8DA93126D211150078E0FC /* TopAlbumsRequestManagerUnitTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF8DA93026D211150078E0FC /* TopAlbumsRequestManagerUnitTests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -140,6 +141,7 @@
 		CF8DA92326D1BC740078E0FC /* DetailViewBackground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewBackground.swift; sourceTree = "<group>"; };
 		CF8DA92826D1F4A00078E0FC /* ViewMusicArtistButtons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewMusicArtistButtons.swift; sourceTree = "<group>"; };
 		CF8DA92E26D200C20078E0FC /* ActionSheetButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActionSheetButton.swift; sourceTree = "<group>"; };
+		CF8DA93026D211150078E0FC /* TopAlbumsRequestManagerUnitTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopAlbumsRequestManagerUnitTests.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -216,6 +218,7 @@
 			isa = PBXGroup;
 			children = (
 				CF4CD86C26CF3F2E00BFA95C /* AppleMusicTests.swift */,
+				CF8DA93026D211150078E0FC /* TopAlbumsRequestManagerUnitTests.swift */,
 				CF4CD86E26CF3F2E00BFA95C /* Info.plist */,
 			);
 			path = AppleMusicTests;
@@ -585,6 +588,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CF4CD86D26CF3F2E00BFA95C /* AppleMusicTests.swift in Sources */,
+				CF8DA93126D211150078E0FC /* TopAlbumsRequestManagerUnitTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
